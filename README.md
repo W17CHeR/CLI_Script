@@ -17,7 +17,7 @@ Tiene muchas otras apariencias, si realizamos toilet - -metal “Hola Mundo” p
 
 Fuente de mi post en Elhacker.net:
 
-https://foro.elhacker.net/scripting/aportesshell_scriptactualizado_interfaz_cli_scripts_varios-t503602.0.html;msg2>
+https://foro.elhacker.net/scripting/aportesshell_scriptactualizado_interfaz_cli_scripts_varios-t503602.0.html;msg2217975#msg2217975
 
 -------------------------------------------------------------------------------
 
