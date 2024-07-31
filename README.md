@@ -7,6 +7,7 @@ Para su funcionamiento, solamente habría que ejecutar el siguiente comando:
           /bin/bash CLI_script.sh
 
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
 Requisitos para su funcionamiento:
 
           sudo apt install toilet
