@@ -13,14 +13,14 @@
  
 	sudo nmap -sT -O localhost >> ~/Desktop/log_puertos_salida.txt
  
-	echo -e "\e[31mrealizando busqueda en bucle en $var segundos\e[0m";
+	echo -e "\e[31mrealizando busqueda en $var segundos\e[0m";
 	sleep 1
 	done
 	clear
 	echo -e "\e[35mSea creado un log en su Escritorio\e[0m";
 	echo -e "\e[36mfinalizado\e[0m";
 	echo
-	read -p "Pulse [ENTER] para ejecutar el analizador de red";
+	read -p "Pulse [ENTER] para ejecutar para salir del analizador de red";
 	. CLI_script.sh
  
 # by Sergio, en el Foro Elhacker.net como (W17CH3R), y en Github como Drake(10010)
