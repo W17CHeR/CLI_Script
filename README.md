@@ -10,7 +10,7 @@ Para su funcionamiento, solamente habría que ejecutar el siguiente comando:
 Requisitos para su funcionamiento:
 
           sudo apt install toilet
-
+          sudo apt-get install figlet
           sudo apt install screenfetch
           sudo apt install rkhunter -y
 por último:
