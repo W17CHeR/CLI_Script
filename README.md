@@ -18,7 +18,7 @@ por último:
                     
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-Con toilet para quien no lo conozca, podemos crear una apariencia personalizada de nuestra fuente, por ejemplo si >
+Con toilet para quien no lo conozca, podemos crear un Art ASCII de nuestra fuente
 
           toilet --filter border “Hola Mundo”
 
