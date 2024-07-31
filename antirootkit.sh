@@ -15,7 +15,7 @@ sleep 1
 done
 clear
 echo -e "\e[31mVerificando binarios sensibles en el sistema\e[0m";
-sudo rkhunter --propupd >> ~/Desktop/Total_de_bins_sensibles_del_sistema.txt
+sudo rkhunter --check >> ~/Desktop/Total_de_bins_sensibles_del_sistema.txt
 echo -e "\e[36mSea creado un log en su Escritorio, lea su contenido\e[0m";
 echo
 read -p "Pulse [ENTER] para ejecutar rkhunter en busca de rootkits y creara también 1 log en el Escritorio.";
