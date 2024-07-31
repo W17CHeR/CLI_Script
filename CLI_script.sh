@@ -16,6 +16,10 @@
 # ----------------------------------------------------------------------
 #./sl -ahl
 clear
+figlet "CLI_Script"
+sleep 2
+clear
+sleep 1
 toilet --filter border "Bienvenido";
 read -p "Pulse [ENTER] para comenzar o de lo contrario [ctrl + c] para cancelar ...";
 clear
