@@ -9,15 +9,18 @@ Para su funcionamiento, solamente habría que ejecutar el siguiente comando:
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
 Requisitos para su funcionamiento:
 
-sudo apt install toilet
-sudo apt install screenfetch
-sudo apt install rkhunter -y
-por último: sudo apt update -y && apt upgrade -y
+          sudo apt install toilet
+
+          sudo apt install screenfetch
+          sudo apt install rkhunter -y
+por último:
+          sudo apt update -y && apt upgrade -y
+                    
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Con toilet para quien no lo conozca, podemos crear una apariencia personalizada de nuestra fuente, por ejemplo si >
 
-toilet --filter border “Hola Mundo”
+          toilet --filter border “Hola Mundo”
 
 Tiene muchas otras apariencias, si realizamos toilet - -metal “Hola Mundo” podremos comprobar como realiza un art ASCII del texto que queramos.
 
