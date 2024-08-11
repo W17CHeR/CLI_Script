@@ -21,7 +21,7 @@ clear
 	for bucle in root home bin etc vaar raiz directorios programas_instalados documentos archivos;
 	do
 	#df -h , 
-	fdisk -l >> ~/Escritorio/log_espacio_libre_y_utilizado.txt
+	fdisk -l >> ~/Desktop/log_espacio_libre_y_utilizado.txt
 	echo -e "\e[32mCalculando espacio libre\e[0m";
 	echo -e "\e[34mEscaneando en: $bucle\e[0m";
 	sleep 2
