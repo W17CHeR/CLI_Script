@@ -29,4 +29,4 @@ clear
 	sleep 2
 
 	read -p "Pulsa [Intro] para salir ";
-clear
+	/bin/bash CLI_script.sh
