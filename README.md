@@ -28,4 +28,4 @@ Tiene muchas otras apariencias, si realizamos toilet - -metal “Hola Mundo” p
 -------------------------------------------------------------------------------
 Este Script lo publique en 2020 en el foro de Ciberseguridad llamado Elhacker.net
 -------------------------------------------------------------------------------
-Cualquiera modificación, o corrección de errores estare agradecido.
+Cualquiera sugerencia, estare agradecido.
