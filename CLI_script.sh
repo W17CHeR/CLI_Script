@@ -31,8 +31,9 @@ echo "2. Busqueda de intrusos y virus";
 echo "3. Antirootkit";
 echo "4. Vaciar papelera";
 echo "5. Ver en tiempo real los puertos salientes";
-echo "6. Salir completamente del programa";
-echo -n "Eliga una opcion entre [1 - 6] o para cancelar use atajo Ctrl + C ";
+echo "6. Ejecutar Metasploit";
+echo "7. Salir completamente del programa";
+echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 	read opcion
 	case $opcion in
 1) . specs.sh;;
@@ -40,7 +41,8 @@ echo -n "Eliga una opcion entre [1 - 6] o para cancelar use atajo Ctrl + C ";
 3) . antirootkit.sh;;
 4) . clean.sh;;
 5) . network.sh;;
-6)toilet --metal "Hasta luego";;
+6) . metasploit.sh
+7)toilet --metal "Hasta luego";;
 #exit 0;;
 *)echo "Solamente opciones del 1 al 6";;
 esac
