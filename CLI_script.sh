@@ -36,11 +36,11 @@ echo "7. Salir completamente del programa";
 echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 	read opcion
 	case $opcion in
-1) . specs.sh;;
-2) . analisis.sh;;
-3) . antirootkit.sh;;
-4) . clean.sh;;
-5) . network.sh;;
+1) /bin/bash specs.sh;;
+2) /bin/bash analisis.sh;;
+3) /bin/bash antirootkit.sh;;
+4) /bin/bash clean.sh;;
+5) /bin/bash network.sh;;
 6) . metasploit.sh;;
 7)toilet --metal "Hasta luego";;
 #exit 0;;
