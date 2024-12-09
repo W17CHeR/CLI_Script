@@ -41,7 +41,7 @@ echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 3) . antirootkit.sh;;
 4) . clean.sh;;
 5) . network.sh;;
-6) . metasploit.sh
+6) . metasploit.sh;;
 7)toilet --metal "Hasta luego";;
 #exit 0;;
 *)echo "Solamente opciones del 1 al 6";;
