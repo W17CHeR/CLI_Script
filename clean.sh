@@ -28,7 +28,7 @@ echo -e "\e[36mEn caso de solicitarle la contraseña, sera necesario para contin
 sudo apt clean
 echo -e "\e[35mEl cache se limpio completamente\e[0m";
 echo -e "\e[33mBorrando archivos temporales tanto visibles como ocutlos\e[0m";
-rm -vfr /tmp/* >/dev/null 2>&1 && rm -vfr /var/tmp/* >/dev/null 2>&1
+sudo rm -vfr /tmp/* >/dev/null 2>&1 && rm -vfr /var/tmp/* >/dev/null 2>&1
 echo -e "\e[36mSea limpiado por completo los archivos temporales\e[0m";
 echo
 read -p "Pulse [Enter] Para finalizar y regresar al menu principal";
