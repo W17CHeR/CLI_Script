@@ -12,7 +12,7 @@ clear
 	echo "Script creado por ... ";
 		sleep 2
 clear
-	echo "Sergio ";
+	echo "Sergio (aka: W17CH3R";
 		sleep 2
 
 
