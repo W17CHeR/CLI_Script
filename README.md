@@ -15,7 +15,7 @@ Requisitos para su funcionamiento:
           sudo apt install screenfetch
           sudo apt install rkhunter -y
 por último:
-          sudo apt update -y && apt upgrade -y
+          sudo apt update -y
                     
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
