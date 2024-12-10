@@ -28,7 +28,7 @@ clear
 echo
 read -p "Pulse [ENTER] para continuar, tenga paciencia puede tardar unos minutos...";
 clear
-echo -e "\e[31mRkhunter esta trabajando en el log en ~/Escritorio, puede tardar unos minutos, tenga paciencia...\e[0m";
+echo -e "\e[31mRkhunter esta trabajando en el log en el Escritorio, puede tardar unos minutos, tenga paciencia...\e[0m";
 sudo rkhunter -c -sk --logfile ~/Desktop/informe_antirootkit-$(date +%Y-%m-%d).log
 clear
 echo -e "\e[34mSea creado un informe en el directorio /Escritorio... \e[0m";
