@@ -1,0 +1,10 @@
+-----------
+Update 1.2
+-----------
+
+Fliget: Herramienta de Art ASCII, con una nueva presentación de la herramienta
+Corrección a la hora de generar los logs en la ruta de ~/Escritorio, ahora es ~/Desktop
+Correción de bugs e incompatibilidad con versión reciente de Kali Linux
+Optimización: Se a corregido código que entraba en complico con packages actuales de Kali Linux, ahora es mucho más fluida su ejecución
+Corrección en la ejecución de los scripts
+Se ha corregido el código de limpiar los archivos temporales, se le ha añadido sudo, debido a que Kali Linux impide borrar archivos temporales sin permisos elevados.
