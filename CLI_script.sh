@@ -44,9 +44,9 @@ echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 5) /bin/bash network.sh;;
 6) . metasploit.sh;;
 7) /bin/bash wireshark.sh;;
-7)clear & toilet --metal "Hasta luego";;
+8)clear & toilet --metal "Hasta luego";;
 #exit 0;;
-*)echo "Solamente opciones del 1 al 6";;
+*)echo "Solamente opciones del 1 al 8";;
 esac
 
 # by Sergio conocido en ElHacker.net como (W17CH3R) y en gitHub como (drake10010)
