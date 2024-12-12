@@ -32,7 +32,8 @@ echo "3. Antirootkit";
 echo "4. Vaciar papelera";
 echo "5. Ver en tiempo real los puertos salientes";
 echo "6. Ejecutar Metasploit";
-echo "7. Salir completamente del programa";
+echo "7. Ejecutar Wireshark";
+echo "8. Salir completamente del programa";
 echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 	read opcion
 	case $opcion in
@@ -42,7 +43,8 @@ echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
 4) /bin/bash clean.sh;;
 5) /bin/bash network.sh;;
 6) . metasploit.sh;;
-7)toilet --metal "Hasta luego";;
+7) /bin/bash wireshark.sh;;
+7)clear & toilet --metal "Hasta luego";;
 #exit 0;;
 *)echo "Solamente opciones del 1 al 6";;
 esac
