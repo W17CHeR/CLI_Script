@@ -16,3 +16,4 @@ Se ha corregido el código de CLI_script, de la despedida "hasta luego" ahora re
 Añadida nueva función, ahora CLI_Script tiene la herramienta de Wireshark, para capturar paquetes y comprobar tu red en un entorno controlado.
 Corregido un error en el código echo "7. "Salir completamente del programa"; por echo "8. Salir completamente del programa";
 Añadido Wireshark
+Corregido un error en la linea 46 de CLI_Script, de echo "7. Ejecutar Wireshark"; por echo "7. Ejecutar Wireshark.sh";
