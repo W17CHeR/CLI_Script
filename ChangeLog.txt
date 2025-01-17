@@ -18,8 +18,8 @@ Corregido un error en el código echo "7. "Salir completamente del programa"; po
 Añadido Wireshark
 Corregido un error en la linea 46 de CLI_Script, de echo "7. Ejecutar Wireshark"; por echo "7. Ejecutar Wireshark.sh";
 
--------------
+---------------
 Update 1.5.1
--------------
+---------------
 Corregido el enlace de Github
 Se ha solucionado problemas de ejecución de CLI_Script, ahora debería funcionar su ejecución /bin/bash CLI_script.sh
