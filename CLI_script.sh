@@ -14,7 +14,6 @@
 # AVISO: No me hago responsable del uso de mis scripts, estos scripts 
 # estan desarrollados para uso educativo, no me hago responsable.
 # ----------------------------------------------------------------------
-#./sl -ahl
 clear
 figlet "CLI_Script"
 sleep 2
