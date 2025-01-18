@@ -23,4 +23,4 @@
 	read -p "Pulse [ENTER] para ejecutar para salir del analizador de red";
 	. CLI_script.sh
  
-# by Sergio, en el Foro Elhacker.net como (W17CH3R), y en Github como Drake(10010)
+# by Sergio, en el Foro Elhacker.net como (W17CH3R), y en Github como W17CHeR
