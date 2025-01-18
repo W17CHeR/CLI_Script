@@ -1,4 +1,6 @@
 # ----------------------------------------------------------------------
+# --- Script creado por W17CH3R (ElHacker.net) y W17CHeR (Github) ------
+# ----------------------------------------------------------------------
 # Script para limpiar la papelera de Linux
 # -----------------------------------------------------------------------
 # También vacia la caché y limpia los archivos temporales
