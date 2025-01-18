@@ -17,4 +17,4 @@ done
 clear
 msfconsole
  
-# by W17CHER
+# by W17CHER (ElHacker.net) and W17CHeR (Github)
