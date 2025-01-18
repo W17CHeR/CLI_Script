@@ -30,3 +30,5 @@ clear
 
 	read -p "Pulsa [Intro] para salir ";
 	/bin/bash CLI_script.sh
+
+ # Creado por aka W17CH3R (ElHacker.net) y en Github aka W17CHeR
