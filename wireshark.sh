@@ -14,3 +14,5 @@ clear
 read -p "Pulse [Enter] para regresar al menu principal: ";
 sleep 2
 /bin/bash CLI_script.sh
+
+# Script creado por W17CH3R (ElHacker.net) y W17CHeR (Github)
