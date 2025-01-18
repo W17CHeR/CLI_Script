@@ -1,4 +1,4 @@
-#----------------------- SCRIPT BY Drake10010 -----------------------------------
+#----------------------- SCRIPT BY W17CH3R (elHacker.net) and W17CHeR (GitHub) -----------------------------------
 # Mis Scripts son de uso educativo, se permite su modifacion con el objetivo de mejorarlo ---------------------
 # Script en bucle para analizar intrusos
 clear
