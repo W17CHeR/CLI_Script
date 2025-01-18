@@ -1,4 +1,4 @@
-# -------------------------- SCRIPT BY W17CH3R (en ElHacker.net) (Drake10010 en Github) -------------------------
+# -------------------------- SCRIPT BY W17CH3R (en ElHacker.net) (W17CHeR en Github) -------------------------
 # IMPORTANTE LEER ESTO: Para que funcione este Script, es realmente necesario
 # instalar el package de toilet cuya funcion es Art ASCCI Text,
 # con apt install toilet -y 
