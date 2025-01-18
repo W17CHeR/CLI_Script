@@ -33,7 +33,7 @@ echo "5. Ver en tiempo real los puertos salientes";
 echo "6. Ejecutar Metasploit";
 echo "7. Ejecutar Wireshark.sh";
 echo "8. Salir completamente del programa";
-echo -n "Eliga una opcion entre [1 - 7] o para cancelar use atajo Ctrl + C ";
+echo -n "Eliga una opcion entre [1 - 8] o para cancelar use atajo Ctrl + C ";
 	read opcion
 	case $opcion in
 1) /bin/bash specs.sh;;
