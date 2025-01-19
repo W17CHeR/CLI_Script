@@ -11,7 +11,7 @@
 # con accessos directos a los Scripts que se ven su codigo de ejecucion
 # al final de este Script.
 # ----------------------------------------------------------------------
-# AVISO: No me hago responsable del uso de mis scripts, estos scripts 
+# AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
 # estan desarrollados para uso educativo, no me hago responsable.
 # ----------------------------------------------------------------------
 clear
