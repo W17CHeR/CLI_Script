@@ -24,3 +24,8 @@ Update 1.5.1
 Corregido el enlace de Github
 Se ha solucionado problemas de ejecución de CLI_Script, ahora debería funcionar su ejecución /bin/bash CLI_script.sh
 Se han añadido comentarios nuevos en todos los Scripts, incluyendo el Readme.md añadiendo información acerca del desarrollo de CLI_Script.
+
+--------------
+Update 1.5.2
+--------------
+Información adicional muy importante añadida en Readme.md, para el funcionamiento correcto a la hora de crear los Logs.txt de los análisis.
