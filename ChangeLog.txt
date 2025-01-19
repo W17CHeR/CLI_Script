@@ -29,3 +29,5 @@ Se han añadido comentarios nuevos en todos los Scripts, incluyendo el Readme.md
 Update 1.5.2
 --------------
 Información adicional muy importante añadida en Readme.md, para el funcionamiento correcto a la hora de crear los Logs.txt de los análisis.
+Añadida la herramienta Security.md para reportar vulnerabilidades a CLI_Script
+Implementado los informes de vulnerabilidad privados, ahora los usuarios podrán reportarme en privado y anónimos, vulnerabilidades encontradas.
