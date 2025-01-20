@@ -37,7 +37,7 @@ Con toilet para quien no lo conozca, podemos crear un Art ASCII de nuestra fuent
 
           toilet --filter border “Hola Mundo”
 
-Tiene muchas otras apariencias, si realizamos toilet - -metal “Hola Mundo” podremos comprobar como realiza un art ASCII del texto que queramos.
+Tiene muchas otras apariencias, si realizamos toilet - -metal “Hola Mundo” podremos comprobar como realiza un art ASCII del texto de color metalico.
 
 -------------------------------------------------------------------------------
 Este Script lo publique en 2020 en el foro de Ciberseguridad llamado Elhacker.net
