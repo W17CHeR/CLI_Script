@@ -12,7 +12,7 @@ Sí tu sistema operativo Kali Linux lo instalastes en español y el directivo de
 para ello desde el terminal ejecuta los siguientes comandos:
 
 ```
-cd /home/kali
+cd /home/{tu usuario}
 mkdir Desktop
 ```
 
