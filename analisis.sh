@@ -20,7 +20,7 @@ clear
 clear
 	for bucle in root home bin etc vaar raiz directorios programas_instalados documentos archivos;
 	do
-	#df -h , 
+	
 	sudo fdisk -l >> ~/Desktop/log_espacio_libre_y_utilizado.txt
 	echo -e "\e[32mCalculando espacio libre\e[0m";
 	echo -e "\e[34mEscaneando en: $bucle\e[0m";
@@ -29,5 +29,5 @@ clear
 	toilet --metal "Finalizado";
 	echo -e "\e[31mSea creado dos logs con el informe siguiente en /Escritorio\e[0m";
 	echo -e "\e[33mEsta libre de intrusos y vigile el espacio usado\e[0m";
-	read -p "Pulse [Enter] para comenzar analizar rootkits";
-	. antirootkit.sh
+	read -p "Pulse [Enter] para regresar al menu principal";
+	. CLI_script.sh
