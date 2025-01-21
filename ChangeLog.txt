@@ -32,3 +32,18 @@ Update 1.5.2
 Información adicional muy importante añadida en Readme.md, para el funcionamiento correcto a la hora de crear los Logs.txt de los análisis.
 Añadida la herramienta Security.md para reportar vulnerabilidades a CLI_Script
 Implementado los informes de vulnerabilidad privados, ahora los usuarios podrán reportarme en privado y anónimos, vulnerabilidades encontradas.
+
+-------------------
+Update 2.0.1
+-------------------
+
+* Añadido el antivirus Clamav a CLI_Script
+* Añadida fuente de color de figlet al antivirus.sh, ahora se vera la presentación de ClamAv en rojoo con 2 barras verdes.
+* Se ha eliminado el código de búsqueda de virus en analisis.sh, no era demasiado eficaz.
+* Ahora el script de analisis.sh se limitara en buscar solamente a intrusos conectados en tu equipo.
+* Corregido el código de analisis.sh, ahora cuando finalice te regresara al menu principal.
+* Corregido el código de analisis.sh, ahora la línea de read -p "Pulse [Enter] para continuar con el antirootkit"; fue cambiada por read -p "Pulse [Enter] para regresar al menu principal";
+
+* Corregido el orden de los scrits en CLI_Script, ahora en vez de 8 herramientas hay 9.
+* Corregido bug en CLI_Script que se interrumpia la ejecución del mismo.
+
