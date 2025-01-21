@@ -16,7 +16,6 @@ BLUE="\e[94m"
 echo -e "\e[92m============================================\n\e[0m"
 printf "${RED}"
 figlet -f banner "ClamAv"
-#printf "{$GREEN}"
 echo -e "\e[92m============================================\n\e[0m"
 printf "{$STOP}"
 
