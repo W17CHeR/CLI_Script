@@ -38,7 +38,7 @@ Update 2.0.1
 -------------------
 
 * Añadido el antivirus Clamav a CLI_Script
-* Añadida fuente de color de figlet al antivirus.sh, ahora se vera la presentación de ClamAv en rojoo con 2 barras verdes.
+* Añadida fuente de color de figlet al antivirus.sh, ahora se vera la presentación de ClamAv en rojo con 2 barras verdes.
 * Se ha eliminado el código de búsqueda de virus en analisis.sh, no era demasiado eficaz.
 * Ahora el script de analisis.sh se limitara en buscar solamente a intrusos conectados en tu equipo.
 * Corregido el código de analisis.sh, ahora cuando finalice te regresara al menu principal.
