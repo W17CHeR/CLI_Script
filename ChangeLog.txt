@@ -50,5 +50,5 @@ Update 2.0.1
 ---------------
 Update 2.0.2
 ---------------
-* Corregido la línea 35, antes estaba como echo "8. Ejecutar Wireshark.sh"; y eliminado que muestre Wireshark.sh por Wireshark.
+* En CLI_script.sh, corregido la línea 35, antes estaba como echo "8. Ejecutar Wireshark.sh"; y eliminado que muestre Wireshark.sh por Wireshark.
 
