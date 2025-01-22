@@ -47,3 +47,8 @@ Update 2.0.1
 * Corregido el orden de los scrits en CLI_Script, ahora en vez de 8 herramientas hay 9.
 * Corregido bug en CLI_Script que se interrumpía la ejecución del mismo.
 
+---------------
+Update 2.0.2
+---------------
+* Corregido la línea 35, antes estaba como echo "8. Ejecutar Wireshark.sh"; y eliminado que muestre Wireshark.sh por Wireshark.
+
