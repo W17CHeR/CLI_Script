@@ -37,4 +37,4 @@ read -p "Pulse [Enter] Para finalizar y regresar al menu principal";
 clear
 . CLI_script.sh
  
-# Autor by Sergio, en el foro ElHacker.net como (W17CH3R) y Github como (drake10010)
+# Autor by Sergio, en el foro ElHacker.net como (W17CH3R) y Github como (W17CHeR)
