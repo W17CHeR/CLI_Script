@@ -32,7 +32,7 @@ echo "4. Antirootkit";
 echo "5. Vaciar papelera";
 echo "6. Ver en tiempo real los puertos salientes";
 echo "7. Ejecutar Metasploit";
-echo "8. Ejecutar Wireshark.sh";
+echo "8. Ejecutar Wireshark";
 echo "9. Salir completamente del programa";
 echo -n "Eliga una opcion entre [1 - 9] o para cancelar use atajo Ctrl + C ";
 	read opcion
