@@ -48,4 +48,6 @@ sudo clamscan / --recursive |tee ~/Desktop/Log-ClamScan.txt
 
 # Regreso al menu principal
 sleep 2
+echo -e "\e[94mSe ha creado un informe log.txt en su escritorio (~/Desktop) con los resultados\e[0m";
+read -p "Pulse [enter] para regresar al menu principal o atajo [ctrl + c] para cancelar.";
 /bin/bash CLI_script.sh
