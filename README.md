@@ -19,7 +19,12 @@ para ello desde el terminal ejecuta los siguientes comandos:
 cd /home/{tu usuario}
 mkdir Desktop
 ```
-
+----------------------------------------------------------
+Descargar CLI_Script a Kali Linux
+----------------------------------------------------------
+```
+git clone https://github.com/W17CHeR/CLI_Script.git
+```
 Para su funcionamiento, solamente habría que ejecutar el siguiente comando:
           
           /bin/bash CLI_script.sh
