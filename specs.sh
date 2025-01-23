@@ -25,10 +25,10 @@ clear
 clear
 		screenfetch
 	sleep 3
-			echo "Aqui estan sus specs ";
+			echo "Aquí están sus specs ";
 	sleep 2
 
-	read -p "Pulsa [Intro] para salir ";
+	read -p "Pulsa [Intro] para regresar al menú principal";
 	/bin/bash CLI_script.sh
 
  # Creado por aka W17CH3R (ElHacker.net) y en Github aka W17CHeR
