@@ -28,7 +28,7 @@ clear
 			echo "Aquí están sus specs ";
 	sleep 2
 
-	read -p "Pulsa [Intro] para regresar al menú principal";
+	read -p "Pulsa [enter] para regresar al menú principal";
 	/bin/bash CLI_script.sh
 
  # Creado por aka W17CH3R (ElHacker.net) y en Github aka W17CHeR
