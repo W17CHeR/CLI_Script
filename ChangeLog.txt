@@ -53,3 +53,4 @@ Update 2.0.2
 * En CLI_script.sh, corregido la línea 35, antes estaba como echo "8. Ejecutar Wireshark.sh"; y eliminado que muestre Wireshark.sh por Wireshark.
 * Añadida línea en antivirus.sh, se ha añadido echo -e "\e[94mSe ha creado un informe log.txt en su escritorio (~/Desktop) con los resultados\e[0m";
 * También se ha añadido read -p "Pulse [enter] para regresar al menu principal o atajo [ctrl + c] para cancelar.";
+* Corregido el código de specs.sh, ahora en vez de "Pulsa [Intro] para salir" ahora es read -p "Pulsa [enter] para salir ";
