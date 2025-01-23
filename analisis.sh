@@ -29,5 +29,5 @@ clear
 	toilet --metal "Finalizado";
 	echo -e "\e[31mSea creado dos logs con el informe siguiente en /Escritorio\e[0m";
 	echo -e "\e[33mEsta libre de intrusos y vigile el espacio usado\e[0m";
-	read -p "Pulse [Enter] para regresar al menu principal";
+	read -p "Pulse [Enter] para regresar al menú principal";
 	. CLI_script.sh
