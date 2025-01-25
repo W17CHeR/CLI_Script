@@ -1,8 +1,10 @@
-# ---- AVISO: Este Script esta desarrollado para fines educativos con lo que 
-# ---- me refiero a utilizarlo con cabeza (ética) no me hago responsable
-# ---- del mal uso de esté Script. -----------------------------------------
-# ---- Solo comparto como realizar una interfaz por línea de comandos-------
-# ---- Aquí comienza el Script: --------------------------------------------
+# ----------------------------------------------------------------------
+#  AVISO: Este Script esta desarrollado para fines educativos con lo que 
+#  me refiero a utilizarlo con cabeza (con ética)
+# ----------------------------------------------------------------------
+# No me hago responsable del mal uso de mis scripts, estos scripts 
+# estan desarrollados para uso educativo, no me hago responsable.
+# ----------------------------------------------------------------------
 clear
 toilet --filter border "METASPLOIT";
 read -p "Pulse [ENTER] para ejecutar o ctrl + C para cancelar";
