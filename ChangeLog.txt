@@ -58,3 +58,4 @@ Update 2.0.2
 Update 2.0.3
 ---------------------
 * Agregada información adicional en el script metasploit.sh
+* En Antivirus.sh, corregido en la línea 23 de [C + Ctrl] para cancelar."; por [Ctrl + C] para cancelar.";
