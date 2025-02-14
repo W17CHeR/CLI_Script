@@ -20,7 +20,7 @@ echo -e "\e[92m============================================\n\e[0m"
 printf "{$STOP}"
 
 sleep 2
-read -p "Pulse [Enter] para comenzar el análisis o usé atajo [C + Ctrl] para cancelar.";
+read -p "Pulse [Enter] para comenzar el análisis o usé atajo [Ctrl + C] para cancelar.";
 sleep 2
 clear
 
