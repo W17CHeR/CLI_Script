@@ -59,3 +59,12 @@ Update 2.0.3
 ---------------------
 * Agregada información adicional en el script metasploit.sh
 * En Antivirus.sh, corregido en la línea 23 de [C + Ctrl] para cancelar."; por [Ctrl + C] para cancelar.";
+
+-----------------------
+Update 2.0.5
+-----------------------
+
+* Modificada la linea 33 de CLI_Script por echo "6. Nmap y Nestat";
+* Añadida la función de Netstat, en la que se ejecutara justo después de Nmap.
+
+
