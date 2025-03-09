@@ -30,7 +30,7 @@ echo "2. Busqueda de intrusos";
 echo "3. Antivirus ClamAv con análisis completo del sistema";
 echo "4. Antirootkit";
 echo "5. Vaciar papelera";
-echo "6. Ver en tiempo real los puertos salientes";
+echo "6. Nmap y Netstat";
 echo "7. Ejecutar Metasploit";
 echo "8. Ejecutar Wireshark";
 echo "9. Salir completamente del programa";
