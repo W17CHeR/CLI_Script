@@ -36,7 +36,7 @@ Requisitos para su funcionamiento:
           sudo apt install toilet
           sudo apt-get install figlet
           sudo apt install screenfetch
-          sudo apt install rkhunter -y
+          sudo apt install rkhunter
           sudo apt install clamav-daemon
 por último:
           sudo apt update -y
