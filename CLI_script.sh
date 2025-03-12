@@ -10,10 +10,10 @@
 # Funcionamiento: Este Script es una mera interfaz en el terminal,
 # con accessos directos a los Scripts que se ven su codigo de ejecucion
 # al final de este Script.
-# ----------------------------------------------------------------------
+# ------------------------------------------------------------------------------------
 # AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
-# estan desarrollados para uso educativo, no me hago responsable.
-# ----------------------------------------------------------------------
+# están desarrollados para uso educativo, utilice con ética y en un entorno controlado
+# -------------------------------------------------------------------------------------
 clear
 figlet "CLI_Script"
 sleep 2
