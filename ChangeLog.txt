@@ -67,4 +67,14 @@ Update 2.0.5
 * Modificada la linea 33 de CLI_Script por echo "6. Nmap y Nestat";
 * Añadida la función de Netstat, en la que se ejecutara justo después de Nmap.
 
+-------------
+update 2.0.6
+-------------
+* sea corregido el código de la linea 14 de network, de ~/Desktop/log_puertos_salida.txt por sudo nmap -sT -O localhost >> ~/Desktop/log_nmap.txt
+* Añadida información adicional en CLI_Script.sh
+"AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
+están desarrollados para uso educativo, utilice con ética y en un entorno controlado"
+
+
+
 
