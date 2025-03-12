@@ -11,7 +11,7 @@
 	for var in  5 4 3 2 1;
 	do
  
-	sudo nmap -sT -O localhost >> ~/Desktop/log_puertos_salida.txt
+	sudo nmap -sT -O localhost >> ~/Desktop/log_nmap.txt
  
 	echo -e "\e[31mrealizando busqueda en $var segundos\e[0m";
 	sleep 1
