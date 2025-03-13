@@ -1,8 +1,11 @@
 # -------------------------- SCRIPT BY W17CH3R (en ElHacker.net) (W17CHeR en Github) -------------------------
 # IMPORTANTE LEER ESTO: Para que funcione este Script, es realmente necesario
-# instalar el package de toilet cuya funcion es Art ASCCI Text,
-# con apt install toilet -y 
-# y también tener todos los scripts en el mismo direcotorio, 
+# leer el README.md, para el funcionamiento de los scripts.
+# ------------------------------------------------------------------------------------
+# AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
+# están desarrollados para uso educativo, utilice con ética y en un entorno controlado
+# -------------------------------------------------------------------------------------
+# y también tener todos los scripts en el mismo directorio, 
 # incluyendo este script.
 # Ya que tiene accesos directos a los otros scripts y al estar en otras rutas
 # podría  de dejar de funcionar el Script.
@@ -10,10 +13,7 @@
 # Funcionamiento: Este Script es una mera interfaz en el terminal,
 # con accessos directos a los Scripts que se ven su codigo de ejecucion
 # al final de este Script.
-# ------------------------------------------------------------------------------------
-# AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
-# están desarrollados para uso educativo, utilice con ética y en un entorno controlado
-# -------------------------------------------------------------------------------------
+
 clear
 figlet "CLI_Script"
 sleep 2
