@@ -74,6 +74,7 @@ update 2.0.6
 * Añadida información adicional en CLI_Script.sh
 "AVISO: No me hago responsable del mal uso de mis scripts, estos scripts 
 están desarrollados para uso educativo, utilice con ética y en un entorno controlado"
+* Corregido los comentarios desde la línea 5 a la 7.
 
 
 
