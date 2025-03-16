@@ -76,6 +76,12 @@ update 2.0.6
 están desarrollados para uso educativo, utilice con ética y en un entorno controlado"
 * Corregido los comentarios desde la línea 5 a la 7.
 
+------------------
+Update 2.0.7
+------------------
 
+* En metasploit.sh se ha añadido las siguientes lineas:  read -p "Pulse [Enter] para regresar al menú principal";
+ /bin/bash CLI_script.sh
+Ahora cuando escribamos "exit" en metasploit, nos mostrara el mensaje de salir al menú principal.
 
 
