@@ -18,5 +18,7 @@ sleep 1
 done
 clear
 msfconsole
- 
+
+ read -p "Pulse [Enter] para regresar al menú principal";
+ /bin/bash CLI_script.sh
 # by W17CHER (ElHacker.net) and W17CHeR (Github)
