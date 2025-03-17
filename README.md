@@ -39,7 +39,8 @@ Requisitos para su funcionamiento:
           sudo apt install rkhunter
           sudo apt install clamav-daemon
 por último:
-          sudo apt update -y
+
+sudo apt update -y
                     
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
